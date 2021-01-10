@@ -1,0 +1,2 @@
+# PsynaviAppPrivacyPolicy
+PsyなびのプライバシーポリシーWebページ
